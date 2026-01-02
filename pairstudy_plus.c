@@ -9,7 +9,7 @@
 #define DAYS 7
 #define HOURS 24
 #define DATA_FILE "data.bin"
-#to begin the session you should login with user name admin and psw admin
+/*to begin the session you should login with user name admin and psw admin*/
 
 typedef enum { ROLE_ADMIN=0, ROLE_STUDENT=1 } Role;
 
