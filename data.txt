@@ -1,0 +1,47 @@
+===== SUBJECTS =====
+0: math
+1: english
+2: science
+
+===== STUDENTS =====
+ID: 1, Name: molka, Reputation: 3.00, Ratings: 0
+Scores: math=100 english=50 science=29 
+Availability (DAYSxHOURS):
+Day 1: 000000000000000000000000
+Day 2: 000000000000000000000000
+Day 3: 000000000000000000000000
+Day 4: 000000000000000000000000
+Day 5: 000000000000000000000000
+Day 6: 000000000000000000000000
+Day 7: 000000000000000000000000
+
+ID: 1, Name: emna, Reputation: 3.00, Ratings: 0
+Scores: math=0 english=0 science=0 
+Availability (DAYSxHOURS):
+Day 1: 12 10 12
+Day 2: 000000000000000000000000
+Day 3: 000000000000000000000000
+Day 4: 000000000000000000000000
+Day 5: 000000000000000000000000
+Day 6: 000000000000000000000000
+Day 7: 000000000000000000000000
+
+ID: 2, Name: sabrine, Reputation: 3.00, Ratings: 0
+Scores: math=0 english=0 science=0 
+Availability (DAYSxHOURS):
+Day 1: 000000000000000000000000
+Day 2: 000000000000000000000000
+Day 3: 000000000000000000000000
+Day 4: 000000000000000000000000
+Day 5: 000000000000000000000000
+Day 6: 000000000000000000000000
+Day 7: 000000000000000000000000
+
+===== ACCOUNTS =====
+Username: admin, Role: ADMIN
+Username: itsmolka, Role: STUDENT, StudentID: 1
+Username: itsemna, Role: STUDENT, StudentID: 2
+Username: itsmelek, Role: STUDENT, StudentID: 3
+Username: itsfatima, Role: STUDENT, StudentID: 4
+Username: itssabrine, Role: STUDENT, StudentID: 5
+
